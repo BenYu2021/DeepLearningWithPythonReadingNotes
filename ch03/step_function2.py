@@ -4,6 +4,11 @@ import numpy as np
 # 3.2.2 阶跃函数的实现
 
 def step_function(x):
+    '''
+    支持NumPy数组的实现
+    :param x:
+    :return:
+    '''
     y = x > 0
     return y.astype(np.int)
 

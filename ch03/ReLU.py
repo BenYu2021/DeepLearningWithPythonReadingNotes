@@ -12,8 +12,9 @@ def relu(x):
     return np.maximum(0, x)
 
 
-x = np.arange(-5.0, 5.0, 0.1)
+x = np.arange(-6.0, 6.0, 0.1)
 y = relu(x)
 plt.plot(x, y)
-plt.ylim(-0.1, 1.1)  # 指定y轴的范围
-plt.show()
+plt.ylim(-1, 6)  # 指定y轴的范围
+# plt.show()
+plt.savefig("../images/图3-9ReLU函数.png")

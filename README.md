@@ -1,7 +1,7 @@
 # 《Deep Learning With Python》Reading Notes
 # 《深度学习入门 基于Python的理论与实现》
 
-![alt 深度学习入门](./images/《深度学习入门》封面.jpg)  
+
 
 # 1. 书籍配套代码地址：
 <https://github.com/oreilly-japan/deep-learning-from-scratch.git>
@@ -18,3 +18,6 @@
 # [第6章-与学习相关的技巧](./notes/第6章-与学习相关的技巧.md)
 # [第7章-卷积神经网络](./notes/第7章-卷积神经网络.md)
 # [第8章-深度学习](./notes/第8章-深度学习.md)
+
+
+![alt 深度学习入门](./images/《深度学习入门》封面.jpg)  
